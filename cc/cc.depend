@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1707084001 source:c:\users\rares\documents\info\cc\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	<iomanip>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707082039 source:c:\users\rares\documents\info\ef\main.cpp
+	<iostream>
+	<conio.h>
+
